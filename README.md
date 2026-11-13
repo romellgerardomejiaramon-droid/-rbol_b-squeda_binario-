@@ -1,5 +1,3 @@
-# Árbol_búsqueda_binario-
-
 # Árbol Binario de Búsqueda en Python
 
 ## Descripción del proyecto
